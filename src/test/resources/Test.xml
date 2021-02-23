@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="0.090936">
+<testcase classname="Validate the Login functionality for Facebook application" name="Validate for Valid username and password in Facebook application" time="0.074943">
+<system-out><![CDATA[Given User is on Facebook login page........................................passed
+When User should enter the valid username and password......................passed
+And User Should click the login button......................................passed
+Then User should land to Facebook homepage after providig valid username and password.passed
+]]></system-out>
+</testcase>
+<testcase classname="Validate the Login functionality for Facebook application" name="Validate for Valid username and password in Facebook application 2" time="0.00188">
+<system-out><![CDATA[Given User is on Facebook login page........................................passed
+When User should enter the valid username and password......................passed
+And User Should click the login button......................................passed
+Then User should land to Facebook homepage after providig valid username and password.passed
+]]></system-out>
+</testcase>
+<testcase classname="Validate the Login functionality for Facebook application" name="Validate for Valid username and password in Facebook application 3" time="0.010689">
+<system-out><![CDATA[Given User is on Facebook login page........................................passed
+When User should enter the valid username and password......................passed
+And User Should click the login button......................................passed
+Then User should land to Facebook homepage after providig valid username and password.passed
+]]></system-out>
+</testcase>
+<testcase classname="Validate the Login functionality for Facebook application" name="Validate for Valid username and password in Facebook application 4" time="0.001809">
+<system-out><![CDATA[Given User is on Facebook login page........................................passed
+When User should enter the valid username and password......................passed
+And User Should click the login button......................................passed
+Then User should land to Facebook homepage after providig valid username and password.passed
+]]></system-out>
+</testcase>
+<testcase classname="Validate the Login functionality for Facebook application" name="Validate for Valid username and password in Facebook application 5" time="0.001615">
+<system-out><![CDATA[Given User is on Facebook login page........................................passed
+When User should enter the valid username and password......................passed
+And User Should click the login button......................................passed
+Then User should land to Facebook homepage after providig valid username and password.passed
+]]></system-out>
+</testcase>
+</testsuite>
